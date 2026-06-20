@@ -321,6 +321,12 @@ nav a:hover {
   font-size: 0.75rem;
   margin-right: 5px;
   margin-left: 99px;
+  border: none;
+}
+
+.project button a{
+  text-decoration: none;
+  color: #ffbf00;
 }
 
 @media screen and (max-width: 1200px) {
